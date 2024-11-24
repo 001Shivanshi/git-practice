@@ -1,0 +1,1 @@
+console.log('There is a changes in file3')
